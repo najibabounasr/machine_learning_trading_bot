@@ -56,6 +56,23 @@ Key libraries used in the project :
 ## Usage
 
 This application can be accessed by accessing google colab, by connecting the repository file on your local computer to your google Drive account, you can access the Google Colab notebook.
+
+
+
+
+# Evaluation Report
+
+
+### Instructions :
+ Add a summary evaluation report at the end of the README.md file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created. (10 points)
+---
+
+### Baseline Performance :
+
+![Alt Text](Images/baseline.png)
+
+
+
 ## Contributors
 
 The sole contributor for this project is:
